@@ -1,0 +1,8 @@
+Keras==2.4.3
+matplotlib==3.3.3
+numpy==1.19.5
+pandas==1.2.0
+scikit_learn==1.0.1
+torch==1.7.1
+torchsummary==1.5.1
+torchswarm==0.0.1
